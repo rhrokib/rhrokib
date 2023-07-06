@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rokibul Islam</h1>
-<h3 align="center">Hello! I'm Rokib, a dedicated software developer with over a year of experience. My primary focus is on ASP.NET Core, React, and React Native. I enjoy leveraging these technologies to build robust and user-friendly web and mobile applications.
+<h3 align="center">I'm a dedicated software developer with over a year of experience. My primary focus is on ASP.NET Core, React, and React Native. I enjoy leveraging these technologies to build robust and user-friendly web and mobile applications.
 
 I also possess knowledge of Azure, TypeScript, and MSSQL, which allows me to design scalable solutions and ensure data integrity. Throughout my career, I have collaborated with diverse teams, gaining valuable insights into effective teamwork and project management.
 
