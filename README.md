@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rokibul Islam</h1>
-<h3 align="center">I'm a fresh graduate in Computer Science. I'm currently looking for software engineering jobs to start my career in the industry. I'm very excited about the journey and hope to learn a lot as we advance. I have experience working in Web Development, System Analysis and Design, Artificial Intelligence, Deep Learning, Natural Language Processing (NLP), Database Design and Computer Security. I have built several projects using these technologies during my graduation period.</h3>
+<h3 align="center">Hello! I'm Rokib, a dedicated software developer with over a year of experience. My primary focus is on ASP.NET Core, React, and React Native. I enjoy leveraging these technologies to build robust and user-friendly web and mobile applications.
+
+I also possess knowledge of Azure, TypeScript, and MSSQL, which allows me to design scalable solutions and ensure data integrity. Throughout my career, I have collaborated with diverse teams, gaining valuable insights into effective teamwork and project management.
+
+Driven by my passion for learning, I constantly stay updated with the latest trends in software development. I'm excited to embark on new challenges and create innovative solutions. Let's connect and collaborate on building exceptional applications together!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
